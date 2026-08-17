@@ -25,6 +25,6 @@ full-stack development, distributed systems, and systems programming.
 
 ## 🤝 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/hamza-mjadly-068ab0253/?skipRedirect=true
+- LinkedIn: [@HamzaMjadly] (https://www.linkedin.com/in/hamza-mjadly-068ab0253/?skipRedirect=true)
 - GitHub: [@HamzaMjadly](https://github.com/HamzaMjadly)
 - Email: mjadlyh@gmail.com
